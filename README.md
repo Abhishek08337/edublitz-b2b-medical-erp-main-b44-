@@ -2,6 +2,7 @@
 
 A production-grade **Medical Domain B2B ERP** platform for hospitals, distributors, and medical vendors. Built with a microservices architecture on AWS infrastructure.
 This is particularly for b-44
+This is V2 for github
 ## Architecture Overview
 
 ```
